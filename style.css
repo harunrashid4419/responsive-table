@@ -5,6 +5,7 @@
 .tableWrap table {
   width: 100%;
   white-space: nowrap;
+  border-collapse: collapse;
 }
 .tableWrap table thead tr th {
   text-align: left;
